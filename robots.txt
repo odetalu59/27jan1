@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://codewithkarma.com/superjp/sitemap.xml
+Sitemap: https://codewithkarma.com/gilajp/sitemap.xml
+Sitemap: https://codewithkarma.com/gojekpot/sitemap.xml
+Sitemap: https://codewithkarma.com/winstrike69/sitemap.xml
+Sitemap: https://codewithkarma.com/slotgacor/sitemap.xml
+Sitemap: https://codewithkarma.com/slotzeus/sitemap.xml
+Sitemap: https://codewithkarma.com/kaptenjackpot/sitemap.xml
+Sitemap: https://codewithkarma.com/boosterjp/sitemap.xml
+Sitemap: https://codewithkarma.com/kerajaanslot/sitemap.xml
+Sitemap: https://codewithkarma.com/pakong86/sitemap.xml
+Sitemap: https://codewithkarma.com/viral88/sitemap.xml
+Sitemap: https://codewithkarma.com/clan4d/sitemap.xml
+Sitemap: https://codewithkarma.com/dinamit4d/sitemap.xml
+Sitemap: https://codewithkarma.com/elang212/sitemap.xml
+Sitemap: https://codewithkarma.com/gori77/sitemap.xml
+Sitemap: https://codewithkarma.com/viral4d/sitemap.xml
+Sitemap: https://codewithkarma.com/playground88/sitemap.xml
